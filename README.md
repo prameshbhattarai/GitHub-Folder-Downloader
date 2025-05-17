@@ -29,10 +29,10 @@ Make sure the following tools are installed:
 
 ### 1. Copy the Script
 
-Download the script from this URL:
+Copy the script from this URL:
 
 ```text
-https://github.com/prameshbhattarai/github-folder-downloader/blob/main/download-git.sh
+https://github.com/prameshbhattarai/GitHub-Folder-Downloader/blob/main/github-download.sh
 ```
 
 Save it locally (e.g., as `github-download.sh`).
