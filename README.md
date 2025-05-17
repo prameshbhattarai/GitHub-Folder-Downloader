@@ -50,6 +50,7 @@ Add the following line to the file (replace with your actual token):
 ```dotenv
 GITHUB_TOKEN=ghp_your_token_here
 ```
+You can generate a token from your GitHub account settings in https://github.com/settings/personal-access-tokens
 
 > ⚠️ Keep your `.env` file private. Do **not** commit it to version control.
 
